@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://itamarsalazar.netlify.app/sitemap.xml
